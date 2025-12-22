@@ -9,9 +9,11 @@ Each set of exercises should only be done **after** being directed to do so in t
 > [!IMPORTANT]
 > Please do not submit your solutions as a PR to this repository. Any PR that does this will have to be closed.
 
-## Cloning and installation
+## Forking, cloning and installation
 
-Clone this repository to your local machine. To do this, click on the green "Code" button at the top right of list of files and copy the link in the prompt. Then, run the following command in your terminal:
+Fork this repository by clicking on the "Fork" button in the top right, above the repository's "About" section.
+
+Clone your fork to your local machine. To do this, make sure you are in the forked repository on GitHub then click on the green "Code" button at the top right of list of files and copy the link in the prompt. Then, run the following command in your terminal:
 
     git clone <link>
 
