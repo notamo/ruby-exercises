@@ -13,4 +13,17 @@ def permutations(array)
   #
   # NOTE: the tests do not check for ordering, so a return of `[[1, 2], [2, 1]]`
   # will be treated the same as `[[2, 1], [1, 2]]`
+  return [[]] if array.empty?
+
+  ret = []
+  if array.length == 2
+    ret << array
+    ret << array.reverse
+  else
+    array.each do |element|
+      permutations = permutations(array.difference([element]))
+      permutations.each { |permutation| ret << [element] + permutation }
+    end  
+  end
+  ret
 end
