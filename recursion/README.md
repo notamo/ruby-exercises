@@ -20,6 +20,6 @@ These exercises are designed to complement the [Recursive Methods lesson in the 
 
 - [x] factorial
 - [x] contains
-- [ ] total_integers
+- [x] total_integers
 - [ ] permutations
 - [ ] pascal
