@@ -19,7 +19,7 @@ These exercises are designed to complement the [Recursive Methods lesson in the 
 ###  Contents
 
 - [x] factorial
-- [ ] contains
+- [x] contains
 - [ ] total_integers
 - [ ] permutations
 - [ ] pascal
