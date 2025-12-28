@@ -18,7 +18,7 @@ These exercises are designed to complement the [Recursive Methods lesson in the 
 
 ###  Contents
 
-- [ ] factorial
+- [x] factorial
 - [ ] contains
 - [ ] total_integers
 - [ ] permutations
