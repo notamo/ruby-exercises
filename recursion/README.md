@@ -22,4 +22,4 @@ These exercises are designed to complement the [Recursive Methods lesson in the 
 - [x] contains
 - [x] total_integers
 - [x] permutations
-- [ ] pascal
+- [x] pascal
